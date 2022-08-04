@@ -55,6 +55,7 @@
   border:2px solid black;
   -webkit-animation: FadeInRight 1.5s;
   -moz-animation: FadeInRight 1.5s;
+  transition:ease-in-out 300ms;
 }
 
 .bookCard:hover{
@@ -155,6 +156,7 @@ body{
   font-family: cursive;
   font-weight: 600;
   padding-left: 15px;
+  transition:ease-in-out 300ms;
 }
 
 .searchInput:focus{
